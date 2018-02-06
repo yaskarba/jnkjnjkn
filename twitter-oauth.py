@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from requests_oauthlib import OAuth1Session
 import secrets
 import json
@@ -93,3 +94,6 @@ rtext=r.text
 loaded_text=json.loads(rtext)
 
 print(loaded_text)
+=======
+
+>>>>>>> 45c4527edd8bf54d4ada99805bd19b42c8a5c3ef
